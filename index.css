@@ -1,0 +1,807 @@
+.edtech,
+.home {
+  position: absolute;
+  top: 11.67px;
+  left: 263.79px;
+  display: inline-block;
+  width: 59.2px;
+  height: 25.67px;
+}
+.edtech {
+  top: 3.5px;
+  left: 0;
+  font-size: 32px;
+  font-weight: 800;
+  width: 116.32px;
+  height: 45.5px;
+}
+.about-us,
+.contact-us,
+.courses,
+.sine-up,
+.testimonial {
+  position: absolute;
+  top: 11.67px;
+  left: 983.52px;
+  display: inline-block;
+  width: 69.58px;
+  height: 25.67px;
+}
+.about-us,
+.contact-us,
+.courses,
+.testimonial {
+  left: 719.72px;
+  width: 112.16px;
+}
+.about-us,
+.courses,
+.testimonial {
+  left: 603.4px;
+  width: 92.43px;
+}
+.courses,
+.testimonial {
+  left: 351.03px;
+  width: 83.08px;
+}
+.testimonial {
+  left: 462.16px;
+  width: 113.2px;
+}
+.navbar-child {
+  top: 0;
+  left: 1096.72px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumaquamarine);
+  width: 115.28px;
+  height: 49px;
+}
+.log-in,
+.navbar,
+.navbar-child {
+  position: absolute;
+}
+.log-in {
+  top: 11.67px;
+  left: 1126.84px;
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+  width: 55.04px;
+  height: 25.67px;
+}
+.navbar {
+  top: 63px;
+  left: 109px;
+  width: 1212px;
+  height: 49px;
+}
+.hero-image-child {
+  position: absolute;
+  top: 73.03px;
+  left: 256.64px;
+  border-radius: 50%;
+  background-color: #c5d8d0;
+  width: 334.07px;
+  height: 362.84px;
+}
+.casual-life-3d-girl-studying-s-icon {
+  position: absolute;
+  top: 73.03px;
+  left: 126.11px;
+  width: 623.89px;
+  height: 523.97px;
+  object-fit: cover;
+}
+.screenshot-2023-08-09-at-1906,
+.screenshot-2023-08-09-at-19061 {
+  position: absolute;
+  top: 0;
+  left: 234.51px;
+  width: 89.6px;
+  height: 102.98px;
+  object-fit: cover;
+}
+.screenshot-2023-08-09-at-19061 {
+  top: 335.02px;
+  left: 0;
+  width: 144.91px;
+  height: 169.25px;
+}
+.casual-life-3d-young-woman-stu-icon {
+  position: absolute;
+  top: 63.32px;
+  left: 498.85px;
+  width: 88.58px;
+  height: 86.67px;
+  object-fit: cover;
+}
+.hero-image {
+  position: absolute;
+  top: 244px;
+  left: 589px;
+  width: 750px;
+  height: 597px;
+}
+.education {
+  color: var(--color-black);
+}
+.online-education {
+  position: absolute;
+  top: 312px;
+  left: 61px;
+  font-size: 60px;
+  letter-spacing: -0.03em;
+  font-weight: 600;
+  font-family: var(--font-khula);
+  text-align: center;
+  display: inline-block;
+  width: 464px;
+  height: 60px;
+  color: #db6359;
+}
+.feels-like-real {
+  margin: 0;
+}
+.amazing-teachers-teaching,
+.feels-like-real-container {
+  position: relative;
+  letter-spacing: -0.03em;
+  display: inline-block;
+}
+.feels-like-real-container {
+  top: 388px;
+  left: 75px;
+  font-size: 75px;
+  font-family: var(--font-lato);
+  width: 529px;
+  height: 173px;
+}
+.amazing-teachers-teaching {
+  top: 592px;
+  left: 65px;
+  font-family: var(--font-khula);
+  text-align: center;
+  width: 379px;
+  height: 27px;
+}
+.desktop-1-child {
+  position: absolute;
+  top: 663px;
+  left: 88px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-cadetblue);
+  width: 163px;
+  height: 47px;
+}
+.get-started {
+  position: absolute;
+  top: 676px;
+  left: 119px;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.screenshot-2023-08-09-at-19062 {
+  position: absolute;
+  top: 619px;
+  left: 264px;
+  width: 190px;
+  height: 90px;
+  object-fit: cover;
+}
+.desktop-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+  font-size: var(--font-size-lg);
+}
+.about-us1 {
+  color: #4b866b;
+}
+.learn-more-about-container {
+  position: absolute;
+  top: 94px;
+  left: 489px;
+  font-size: 45px;
+  font-weight: 600;
+  display: inline-block;
+  width: 462px;
+  height: 75px;
+}
+.desktop-2-child {
+  left: 51px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+}
+.desktop-2-child,
+.desktop-2-inner,
+.desktop-2-item {
+  position: absolute;
+  top: 256px;
+  border-radius: var(--br-32xl);
+  width: 398px;
+  height: 511px;
+}
+.desktop-2-item {
+  left: 521px;
+  background-color: #2f3e48;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+}
+.desktop-2-inner {
+  left: 991px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+}
+.casual-life-3d-first-place-bad-icon {
+  position: absolute;
+  top: 278px;
+  left: 207px;
+  width: 87px;
+  height: 131px;
+  object-fit: cover;
+}
+.the-best-curriculumns,
+.the-best-curriculumns1,
+.the-best-curriculumns2 {
+  position: absolute;
+  top: 451px;
+  left: 87px;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+  color: var(--color-cadetblue);
+}
+.the-best-curriculumns1,
+.the-best-curriculumns2 {
+  left: 1026px;
+}
+.the-best-curriculumns2 {
+  left: 556px;
+  color: var(--color-white);
+}
+.curriculumn-set-the {
+  margin-block-start: 0;
+  margin-block-end: 6px;
+}
+.curriculumn-set-the-container,
+.learning-students-are,
+.teaching-is-an-container {
+  position: absolute;
+  top: 529px;
+  left: 97px;
+  text-align: center;
+  display: inline-block;
+  width: 306px;
+}
+.learning-students-are,
+.teaching-is-an-container {
+  left: 1040px;
+  height: 171px;
+}
+.teaching-is-an-container {
+  top: 546px;
+  left: 567px;
+  color: var(--color-white);
+  height: 115px;
+}
+.d-fluency-brick-1-icon,
+.d-fluency-physics-1-icon {
+  position: absolute;
+  top: 263px;
+  left: 1109px;
+  width: 161px;
+  height: 161px;
+  object-fit: cover;
+}
+.d-fluency-brick-1-icon {
+  left: 639px;
+}
+.desktop-2 {
+  position: absolute;
+  top: 1024px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+}
+.desktop-3-child {
+  position: absolute;
+  top: 146px;
+  left: 824px;
+  border-radius: var(--br-32xl);
+  width: 554px;
+  height: 703px;
+  object-fit: cover;
+}
+.heres-how-students {
+  position: absolute;
+  top: 190px;
+  left: 56px;
+  font-size: var(--font-size-46xl);
+  letter-spacing: -0.03em;
+  display: inline-block;
+  font-family: var(--font-lato);
+  width: 751px;
+  height: 368px;
+}
+.are-you-too,
+.curriculumn-set-the2 {
+  position: absolute;
+  top: 385px;
+  left: 56px;
+  display: inline-block;
+  width: 615px;
+}
+.are-you-too {
+  top: 575px;
+}
+.write-your-review {
+  position: absolute;
+  top: 705px;
+  left: 114px;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+  color: var(--color-white);
+}
+.desktop-3 {
+  position: absolute;
+  top: 2048px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+  font-size: var(--font-size-6xl);
+}
+.desktop-4-child,
+.desktop-4-item {
+  position: absolute;
+  top: 250px;
+  left: 91px;
+  border-radius: var(--br-3xs);
+  background-color: #f87769;
+  width: 186px;
+  height: 167px;
+}
+.desktop-4-item {
+  top: 614px;
+  left: 653px;
+  background-color: #f4ac58;
+}
+.desktop-4-inner,
+.rectangle-div {
+  position: absolute;
+  background-color: var(--color-chocolate);
+}
+.desktop-4-inner {
+  top: -20px;
+  left: 769px;
+  border-radius: 50%;
+  width: 186px;
+  height: 182px;
+}
+.rectangle-div {
+  top: 98px;
+  left: 839px;
+  border-radius: var(--br-3xs);
+  width: 607px;
+  height: 64px;
+}
+.desktop-4-child1,
+.ellipse-div {
+  position: absolute;
+  background-color: var(--color-black);
+}
+.desktop-4-child1 {
+  top: 51px;
+  left: 839px;
+  border-radius: var(--br-3xs);
+  width: 607px;
+  height: 64px;
+}
+.ellipse-div {
+  top: -40px;
+  left: 769px;
+  border-radius: 50%;
+  width: 186px;
+  height: 155px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 270px;
+  left: 118px;
+  border-radius: var(--br-3xs);
+  width: 701px;
+  height: 484px;
+  object-fit: cover;
+}
+.desktop-4-child2 {
+  position: absolute;
+  top: 286px;
+  left: 887px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  width: 63px;
+  height: 63px;
+}
+.star-icon {
+  position: absolute;
+  top: 295px;
+  left: 897.13px;
+  width: 46px;
+  height: 46px;
+}
+.my-recruitment {
+  position: absolute;
+  top: 71px;
+  left: 132px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: #00081c;
+}
+.want-to-be-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.want-to-be-container {
+  position: absolute;
+  top: 114px;
+  left: 132px;
+  font-size: 40px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 405px;
+  height: 96px;
+}
+.my-favorite-teacher-container {
+  position: absolute;
+  top: 428px;
+  left: 887px;
+  font-size: var(--font-size-lg);
+  font-weight: 300;
+  display: inline-block;
+  width: 521px;
+  height: 187px;
+}
+.apply-to-be {
+  position: absolute;
+  top: 626px;
+  left: 887px;
+  font-weight: 600;
+}
+.desktop-4-child3 {
+  position: absolute;
+  top: 714px;
+  left: 887px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+  width: 380px;
+  height: 80px;
+}
+.my-favourite-teacher {
+  position: absolute;
+  top: 739px;
+  left: 950px;
+  font-weight: 600;
+}
+.desktop-4 {
+  position: absolute;
+  top: 3072px;
+  left: 0;
+  background-color: var(--color-seagreen);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.favourite-teacher {
+  color: var(--color-mediumaquamarine);
+}
+.how-do-i-container {
+  position: absolute;
+  top: 118px;
+  left: 80px;
+  font-size: var(--font-size-46xl);
+}
+.how-do-i-container,
+.you-love-inspiring {
+  letter-spacing: -0.03em;
+}
+.you-love-inspiring-container {
+  position: absolute;
+  top: 413px;
+  left: 144px;
+  font-size: var(--font-size-5xl);
+}
+.stuents-enjoy-your,
+.you-are-creative,
+.you-are-great,
+.you-are-ready,
+.you-have-a {
+  position: absolute;
+  top: 484px;
+  left: 144px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.03em;
+}
+.stuents-enjoy-your,
+.you-are-great,
+.you-are-ready,
+.you-have-a {
+  top: 555px;
+}
+.stuents-enjoy-your,
+.you-are-ready,
+.you-have-a {
+  top: 626px;
+}
+.stuents-enjoy-your,
+.you-are-ready {
+  top: 697px;
+}
+.stuents-enjoy-your {
+  top: 768px;
+}
+.desktop-5-child,
+.desktop-5-child1,
+.desktop-5-child2,
+.desktop-5-child3,
+.desktop-5-inner,
+.desktop-5-item {
+  position: absolute;
+  top: 409px;
+  left: 80px;
+  border-radius: 50%;
+  background-color: var(--color-seagreen);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  width: 35px;
+  height: 35px;
+}
+.desktop-5-child1,
+.desktop-5-child2,
+.desktop-5-child3,
+.desktop-5-inner,
+.desktop-5-item {
+  top: 471px;
+}
+.desktop-5-child1,
+.desktop-5-child2,
+.desktop-5-child3,
+.desktop-5-inner {
+  top: 548px;
+}
+.desktop-5-child1,
+.desktop-5-child2,
+.desktop-5-child3 {
+  top: 619px;
+}
+.desktop-5-child2,
+.desktop-5-child3 {
+  top: 690px;
+}
+.desktop-5-child3 {
+  top: 767px;
+}
+.desktop-5-child4,
+.desktop-5-child5,
+.desktop-5-child6 {
+  position: absolute;
+  top: 414px;
+  left: 85.64px;
+  width: 26px;
+  height: 26px;
+}
+.desktop-5-child5,
+.desktop-5-child6 {
+  top: 476px;
+}
+.desktop-5-child6 {
+  top: 553px;
+}
+.desktop-5-child7,
+.desktop-5-child8,
+.desktop-5-child9 {
+  position: absolute;
+  top: 624px;
+  left: 85.64px;
+  width: 26px;
+  height: 26px;
+}
+.desktop-5-child8,
+.desktop-5-child9 {
+  top: 695px;
+}
+.desktop-5-child9 {
+  top: 772px;
+}
+.desktop-5-child10 {
+  position: absolute;
+  top: 328px;
+  left: 940px;
+  border-radius: 50%;
+  background-color: var(--color-seagreen);
+  width: 404px;
+  height: 404px;
+}
+.michael-dam-mez3pofgs-k-unspla-icon {
+  position: absolute;
+  top: 367px;
+  left: 956px;
+  width: 371px;
+  height: 371px;
+  object-fit: cover;
+}
+.desktop-5-child11 {
+  position: absolute;
+  top: 906px;
+  left: 0;
+  background-color: #dae4df;
+  width: 1440px;
+  height: 617px;
+}
+.how-to-apply,
+.there-are-3 {
+  position: absolute;
+  letter-spacing: -0.03em;
+}
+.how-to-apply {
+  top: 940px;
+  left: 569px;
+  font-size: 50px;
+}
+.there-are-3 {
+  top: 1023px;
+  left: 610px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-open-sans);
+  display: flex;
+  align-items: center;
+  width: 378px;
+  height: 37px;
+}
+.desktop-5-child12,
+.desktop-5-child13,
+.desktop-5-child14 {
+  position: absolute;
+  top: 1178px;
+  left: 170px;
+  border-radius: 50%;
+  background-color: var(--color-mediumaquamarine);
+  width: 84px;
+  height: 84px;
+}
+.desktop-5-child13,
+.desktop-5-child14 {
+  top: 1173px;
+  left: 687px;
+}
+.desktop-5-child14 {
+  top: 1168px;
+  left: 1204px;
+}
+.user-plus-icon {
+  position: absolute;
+  top: 1191px;
+  left: 1227px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+}
+.vector-icon {
+  height: 2.48%;
+  width: 2.36%;
+  top: 71.65%;
+  right: 48.19%;
+  bottom: 25.86%;
+  left: 49.44%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.airplay-icon,
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon1 {
+  height: 0.38%;
+  width: 0.69%;
+  top: 71.72%;
+  right: 49.03%;
+  bottom: 27.9%;
+  left: 50.28%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.airplay-icon {
+  top: 1199px;
+  left: 192px;
+  width: 39px;
+  height: 39px;
+}
+.step-1,
+.step-2,
+.step-3 {
+  position: absolute;
+  top: 1126px;
+  left: 184px;
+  letter-spacing: -0.03em;
+  font-family: var(--font-open-sans);
+}
+.step-2,
+.step-3 {
+  left: 705px;
+}
+.step-3 {
+  top: 1120px;
+  left: 1212px;
+}
+.complete-the-online-container,
+.submit-your-resune,
+.video-of-you-container {
+  position: absolute;
+  top: 1291px;
+  left: 139px;
+  letter-spacing: -0.03em;
+  font-family: var(--font-open-sans);
+}
+.submit-your-resune,
+.video-of-you-container {
+  top: 1286px;
+  left: 646px;
+}
+.video-of-you-container {
+  left: 1150px;
+  text-align: center;
+}
+.arrow-icon,
+.copyright-2023,
+.desktop-5-child15 {
+  position: absolute;
+  top: 1209.95px;
+  left: 295px;
+  width: 275.5px;
+  height: 22.09px;
+}
+.copyright-2023,
+.desktop-5-child15 {
+  left: 838px;
+}
+.copyright-2023 {
+  top: 1610px;
+  left: 576px;
+  letter-spacing: 0em;
+  font-family: var(--font-open-sans);
+  display: inline-block;
+  width: 288px;
+  height: 23px;
+  position: absolute;
+}
+.desktop-5 {
+  position: absolute;
+  top: 4096px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1665px;
+  overflow: hidden;
+  font-family: var(--font-lato);
+}
+.desktop-1-parent {
+  position: relative;
+  width: 100%;
+  height: 5619px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
